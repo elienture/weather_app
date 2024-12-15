@@ -1,8 +1,25 @@
-# React + Vite
+# Weather App (practice project)
+A weather app built using React framework. The app shows the weather forecast of any city using integrated API. After choosing a location, the city's temperature, windspeed and humidity level are displayed on the screen.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## All credits to GreatStack
+@GreatStackDev on Youtube
 
-Currently, two official plugins are available:
+## Built using Vite 
+https://vite.dev/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Сборка
+```
+npm run build
+```
+
+## Tools:
+- HTML5
+- CSS3
+- JS
+- React
+- API
+
+## Author
+elienture
+Elizaveta N.
+[Ссылка на старницу Github](https://github.com/elienture)
