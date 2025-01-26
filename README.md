@@ -7,7 +7,7 @@ A weather app built using React framework. The app shows the weather forecast of
 ## Built using Vite 
 https://vite.dev/
 
-## Сборка
+## Build
 ```
 npm run build
 ```
